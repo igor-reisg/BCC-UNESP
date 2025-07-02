@@ -1,0 +1,2 @@
+A chamada pBar.setValue(cont) não precisa de SwingUtilities.invokeLater porque está dentro do método actionPerformed(), 
+que já é executado pela EDT. Portanto, pode-se atualizar a interface nesse momento.

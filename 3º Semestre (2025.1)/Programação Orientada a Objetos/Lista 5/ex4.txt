@@ -1,0 +1,2 @@
+Listener é uma interface com diversos métodos. Caso queira usar um método do listener, ainda assim tem que implementar todos os métodos presentes na interface.
+Já o adapter é uma classe que contém todos os métodos da interface Listener já implementados, assim, só é preciso dar override apenas nos métodos que deseja utilizar.

@@ -1,0 +1,5 @@
+Os dois programas em questão mostram um exemplo simples do uso de threads, mas cada um tem uma abordagem diferente.
+No slide 5, a classe ThreadSimples dá extends na na classe Threads e sobrescreve o método run().
+Já no slide 8, a implmententação de threads é feita a partir do uso de interface Runnable, assim, é apenas definido o que a 
+thread deve executar, e a criação da thread é feita a partir da instanciação new Thread(newThreadSimples()).
+Portanto, a diferença entre as duas implmententações é a forma que as threads são criadas.

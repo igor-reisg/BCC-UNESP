@@ -1,0 +1,3 @@
+O método SwingUtilities.invokeLater não é usado no arquivo TestaThread.java, o usado é o SwingUtilities.invokeAndWait().
+Neste caso, do SwingUtilities.invokeAndWait(), o método é utilizado para executar a parte do código que atualiza a interface
+gráfica dentro da EDT.

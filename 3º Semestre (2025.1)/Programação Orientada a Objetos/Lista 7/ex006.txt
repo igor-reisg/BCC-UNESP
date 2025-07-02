@@ -1,0 +1,5 @@
+Sim, é possível utilizar o método. Para utilizá-lo, seria apenas necessário alterar no código
+SwingUtilities.invokeAndWait por SwingUtilities.invokeLater. A diferença entre os métodos é que
+O invokeLater não espera a execução do código enviado à EDT, seria executado de imediato, 
+podendo assim ter problemas na hora de atualizar a barra. Já o invokeAndWait espera que a atualização da 
+GUI termine antes de continuar o loop.

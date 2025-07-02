@@ -1,0 +1,7 @@
+Faça uma aplicação de jogo da velha para ser jogado por dois
+jogadores em rede. Você deve implementar dois programas: um servidor,
+que controla a lógica do jogo, e um cliente, que será a aplicação, com
+interface gráfica, que o jogador rodará para efetivamente interagir com o
+jogo.
+
+Poderá ser feito em dupla

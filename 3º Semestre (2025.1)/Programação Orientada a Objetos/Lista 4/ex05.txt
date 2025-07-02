@@ -1,0 +1,1 @@
+Ao executar, o programa exibe um editor de texto onde existem 4 botões na parte superior (NORTH) e no centro (CENTER) exibe uma área de texto que é rolavel

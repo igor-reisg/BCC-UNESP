@@ -1,0 +1,1 @@
+Essa linha serve para que o JTextArea texto possa ser rolavel. Ou seja, ao escrever coisas nesse bloco de notas e passar da área que é mostrada, a área de texto pode ser rolada para baixo e continuar sendo escrita.

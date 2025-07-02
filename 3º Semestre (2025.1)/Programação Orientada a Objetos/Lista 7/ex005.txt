@@ -1,0 +1,3 @@
+Não é possível, pois assim poderia causar erros de atualização gráfica travada/incompleta, problemas
+inesperados e problemas na interface, já que o essa linha de código seria executada pela thread principal de
+execução do código, e não na auxiliar, que executa as atualizações da parte gráfica.
